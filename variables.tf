@@ -19,5 +19,5 @@ variable "environment" {
 variable "bucket_name" {
     description = "Name of S3 bucket"
     type = string
-    default = "rosie-tf-cicd-bucket26"
+    default = "rosie-tf-cicd-bucket2026"
 }
